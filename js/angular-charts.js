@@ -1,6 +1,4 @@
-/**
- * Main module
- */
+/** * Main module*/
 angular.module('angularCharts', ['angularChartsTemplates']);
 /**
  * Main directive handling drawing of all charts
